@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Puppeteer test",
   "main": "index.js",
   "dependencies": {
